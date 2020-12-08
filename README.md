@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To run the project, you should start 2 cmd. One for the server by using node server.js, another one for application using npm start. And you can see the html page in the browser.
 ## Available Scripts
 
 In the project directory, you can run:
